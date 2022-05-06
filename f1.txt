@@ -1,3 +1,7 @@
 Encabezado 1
+------------
 línea 1
 línea 2
+párrafo p1
+-----------
+tabla 1
