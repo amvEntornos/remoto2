@@ -7,3 +7,4 @@ párrafo p1
 tabla 1
 tabla 2
 imágen 1
+tabla A
