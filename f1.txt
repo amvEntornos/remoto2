@@ -12,3 +12,4 @@ banner 1
 -----------
 footer
 logos
+nuevo
