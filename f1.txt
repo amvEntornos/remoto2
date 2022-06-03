@@ -19,3 +19,5 @@ nuevo
 dam1 >> tutorial dam
 asir1 >> tutorial asir
 af1 >> tutorial af1
+ga1 >> tutorial ga1
+
