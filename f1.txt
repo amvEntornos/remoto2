@@ -18,3 +18,4 @@ nuevo
 -----------
 dam1 >> tutorial dam
 asir1 >> tutorial asir
+ga1 >> tutorial ga1
